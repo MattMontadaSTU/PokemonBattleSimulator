@@ -1,0 +1,3 @@
+rootProject.name='PokemonBattleSimulator'
+include ':app'
+include ':myapplication'
