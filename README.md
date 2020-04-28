@@ -2,8 +2,7 @@
 
 This is my Final Project for Java where i create an app for Android that involves Pokemon Battling. It features many of the qualities that
 make the games so memorable: strategies, a variety of pokemon to use, and cool moves to use. The only thing i was not able to do was to
-have the Pokemon appear on-screen and the title screen for the app because i did not want to get in trouble for copyright issues involving
-the creation of these two aspects of my project
+have the Pokemon appear on-screen and the title screen for the app because i did not want to get in trouble for copyright issues involving the creation of these two aspects of my project, and because i kept getting multiple errors as i attempted to insert them into my app
 
 # Battle
 
