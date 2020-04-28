@@ -20,6 +20,13 @@ were used to print the moves the Pokemon, and type effectiveness damage calculat
 These classes were made to be part of the selection of Pokemon that will be used to play the game. Each of these clases includes every
 individual Pokemon's typings, stats, and moves.
 
+# How to Run The App
+1. Firstly, open the AVD Manager directly by the AVD icon in the Toolbar.
+2. Your Virtual Devices list will be opened on your Computer screen.
+3. After that your AVD / Emulator will open up.
+4. After that you can run app directly 
+5. You can also run app go to the Menu bar and Click on Run > Run app.
+
 # Screenshots from my app
 ![Screenshot (79)](https://user-images.githubusercontent.com/60233452/80316235-89026300-87ca-11ea-8065-6e735505b2a4.png)
 ![Screenshot (80)](https://user-images.githubusercontent.com/60233452/80316237-8b64bd00-87ca-11ea-969b-4e94c3010682.png)
